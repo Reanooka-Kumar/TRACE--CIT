@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+httpx
+ollama
+python-jose[cryptography]
+passlib[argon2]
+google-auth
+requests
+sqlalchemy
+pymysql
+python-dotenv
